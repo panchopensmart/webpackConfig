@@ -6,5 +6,6 @@
     <li>The third browser will open the project in a new window</li>
 </ul>
 
-<p>This configuration supports files: .sass .scss .css. </p>
-<i>*to support the Less, you need to install plugin - "<code>less-loader</code> in Webpack documentation or <code>npm</code>"</i>
+<p>This configuration supports files: .sass .scss .css .pmg .jpeg .jpg .gif .html </p>
+<hr>
+<div><h5><img src="https://github.com/webpack/media/blob/master/logo/icon-square-small.svg" alt="" height="100px"><i>powered on*</i></h5></div>
