@@ -1,3 +1,4 @@
+import './styles/style.less' //import custom .less
 import './styles/style.css'; //import custom .css
 import './styles/style.scss'; //import custom .scss
 import logo from './images/webpack.png' //custom pictur
