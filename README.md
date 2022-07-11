@@ -7,6 +7,6 @@
 </ul>
 
 <p>To connect pugin, do not forget import file in index.js</p>
-<p>(This configuration supports files: .sass .scss .css .png .jpeg .jpg .gif .html) </p>
+<p>(This configuration supports files: .less .sass .scss .css .png .jpeg .jpg .gif .html) </p>
 <hr>
 <div><h5><img src="https://github.com/webpack/media/blob/master/logo/icon-square-small.svg" alt="" height="100px"><i>powered on*</i></h5></div>
